@@ -10,8 +10,8 @@ Estas instrucciones describen el contenido del portafolio
 
 ```
 Visual Studio 2019/2017
-Visualizador PDF
 Editor de código (VS Code, Notepad++)
+Visualizador PDF
 ```
 
 ## Pantallas
