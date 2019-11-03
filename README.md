@@ -4,7 +4,7 @@ Portafolio
 
 ## Inicio
 
-Estas instrucciones describen el contenido del portafolio
+A continuación se describe el contenido del portafolio
 
 ### Prerequisitos
 
