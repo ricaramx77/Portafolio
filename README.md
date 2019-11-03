@@ -12,7 +12,7 @@ Visual Studio 2019/2017
 Visalizador PDF
 Editor de código (VS Code, Notepad++)
 
-### Pantallas
+## Pantallas
 
 Imágenes de pantallas de proyectos en los cuales he trabajado
 
