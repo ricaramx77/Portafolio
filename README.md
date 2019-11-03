@@ -8,9 +8,11 @@ Estas instrucciones describen el contenido del portafolio
 
 ### Prerequisitos
 
+```
 Visual Studio 2019/2017
-Visalizador PDF
+Visualizador PDF
 Editor de código (VS Code, Notepad++)
+```
 
 ## Pantallas
 
