@@ -1,27 +1,24 @@
-# Project Title
+# Portafolio 
 
-One Paragraph of project description goes here
+Portafolio de Ricardo Rangel Ramírez - Web Developer
 
-## Getting Started
+## Inicio
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Estas instrucciones describen el contenido del portafolio
 
-### Prerequisites
+### Prerequisitos
 
-What things you need to install the software and how to install them
+Visual Studio 2019/2017
+Visalizador PDF
+Editor de código (VS Code, Notepad++)
 
-```
-Give examples
-```
+### Pantallas
 
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+Imágenes de pantallas de proyectos en los cuales he trabajado
 
 ```
-Give the example
+Stanhome
+Fondo Creación
 ```
 
 And repeat
