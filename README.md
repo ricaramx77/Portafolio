@@ -16,7 +16,7 @@ Visualizador PDF
 
 ## Pantallas
 
-Imágenes de pantallas de proyectos en los cuales he trabajado
+Imágenes de proyectos en los cuales he trabajado
 
 ```
 Stanhome
