@@ -16,16 +16,16 @@ Visualizador PDF
 
 ## Pantallas
 
-Imágenes de pantallas de proyectos en los cuales he trabajado
+Imágenes de proyectos en los cuales he trabajado
 
 ```
 Stanhome
 Fondo Creación
 ```
 
-## Design Patterns
+## Design Patterns in C#
 
-Este proyecto explora los diferentes patrones de disño por medio de ejemplos
+Este proyecto explora los diferentes patrones de diseño por medio de ejemplos
 
 ## Genéricos jQuery
 
